@@ -4,6 +4,7 @@ To analyze product sales data and uncover insights on revenue, discounts, return
 
 ## 📊 Dataset Used
 A structured sales dataset (CSV) including features like product category, revenue, discount %, return rate, platform, location, and time of sale.
+-<a href="https://github.com/Saikhandagale/Gym_Supplement_Dashboard/blob/main/Supplement_Sales_Weekly_Expanded.csv">Product_Dataset</a>
 
 
 ##📈 Questions (KPIs) Explored
@@ -44,6 +45,12 @@ Amazon accounted for over 50% of total sales volume.
 Some regions responded more strongly to discounts in terms of units sold.
 
 Sales showed weekly and monthly spikes, hinting at promotional impact or seasonality.
+
+## Dashboard
+![python_dashboard](https://github.com/user-attachments/assets/86c2c56b-04ae-48c3-acd8-8d3b9d0e1c86)
+
+## Source_code
+-<a href="http://localhost:8888/doc/tree/project.ipynb">Source_Code</a>
 
 ##✅ Conclusion
 This Jupyter Notebook-based dashboard enabled interactive, visual exploration of key sales KPIs.
