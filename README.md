@@ -7,7 +7,7 @@ A structured sales dataset (CSV) including features like product category, reven
 -<a href="https://github.com/Saikhandagale/Gym_Supplement_Dashboard/blob/main/Supplement_Sales_Weekly_Expanded.csv">Product_Dataset</a>
 
 
-##📈 Questions (KPIs) Explored
+## 📈 Questions (KPIs) Explored
 What are the top product categories by average revenue per unit sold?
 
 How do discount percentages impact total revenue and units sold?
@@ -22,7 +22,7 @@ Which categories balance high revenue with low return rates?
 
 What patterns exist in seasonal or monthly sales?
 
-##🛠 Process
+## 🛠 Process
 Performed data cleaning and transformation using Pandas.
 
 Aggregated and grouped data by product, category, and region for deeper insights.
@@ -31,7 +31,7 @@ Created visualizations using Matplotlib and Seaborn (e.g., bar plots, scatter pl
 
 Added interactive widgets (like dropdowns and sliders) using ipywidgets for dynamic filtering inside the notebook.
 
-##📌 Project Insights
+## 📌 Project Insights
 Creatine, Fish Oil, and Vitamin C ranked highest in total revenue.
 
 A negative trend was observed between high discounts and revenue beyond a threshold (~10%).
@@ -52,7 +52,7 @@ Sales showed weekly and monthly spikes, hinting at promotional impact or seasona
 ## Source_code
 -<a href="http://localhost:8888/doc/tree/project.ipynb">Source_Code</a>
 
-##✅ Conclusion
+## ✅ Conclusion
 This Jupyter Notebook-based dashboard enabled interactive, visual exploration of key sales KPIs.
 The project made complex metrics accessible to stakeholders and improved data-driven decision-making through clear storytelling and visuals.
 
